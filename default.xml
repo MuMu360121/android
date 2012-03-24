@@ -251,11 +251,12 @@
 
   <project path="android" name="SunRain/android" />
   
+  <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" revision="refs/heads/gingerbread" />
   
    <!--project path="hardware/ti/camera" name="Hashcode/android_hardware_ti_camera" remote="github" revision="ics-hybrid-solana" /-->
-  <!--project path="hardware/ti/syslink" name="Hashcode/android_hardware_ti_syslink" remote="github" revision="ics" /-->
-  <!--project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="refs/heads/memmgr_1.0" /-->
-  <!--project path="hardware/ti/wpan" name="Hashcode/android_hardware_ti_wpan" remote="github" revision="ics" /-->
+  <project path="hardware/ti/syslink" name="SunRain/android_hardware_ti_syslink" />
+  <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="refs/heads/memmgr_1.0" />
+  <project path="hardware/ti/wpan" name="SunRain/android_hardware_ti_wpan" />
  
    <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
