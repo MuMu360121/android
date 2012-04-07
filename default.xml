@@ -256,8 +256,6 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="android" name="SunRain/android" />
-  
   <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" revision="refs/heads/gingerbread" />
   
    <!--project path="hardware/ti/camera" name="Hashcode/android_hardware_ti_camera" remote="github" revision="ics-hybrid-solana" /-->
@@ -282,5 +280,7 @@
   <project path="device/motorola/spyder" name="SunRain/android_device_motorola_spyder-1" />
     
     <project path="vendor/motorola" name="SunRain/proprietary_vendor_motorola" />
+    
+      <project path="android" name="SunRain/android" />
   
 </manifest>
