@@ -8,8 +8,8 @@
            fetch=".."
            review="review.cyanogenmod.com" />
 
-  <remote name="omapzoom"
-			   fetch="git://git.omapzoom.org/" />
+  <remote  name="omapzoom"
+           fetch="git://git.omapzoom.org/" />
 			   
   <default revision="refs/heads/ics"
            remote="github"
