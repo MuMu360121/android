@@ -277,6 +277,7 @@
   <project path="system/core" name="SunRain/android_system_core" />
   
   <project path="packages/apps/Phone" name="SunRain/android_packages_apps_Phone" />
+  <project path="packages/apps/FileExplorer" name="SunRain/FileExplorer" />
    
   <project path="frameworks/base" name="SunRain/android_frameworks_base" />
 
